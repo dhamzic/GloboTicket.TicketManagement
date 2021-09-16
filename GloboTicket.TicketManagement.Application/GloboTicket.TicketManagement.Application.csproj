@@ -20,6 +20,7 @@
     <Folder Include="Features\Events\Commands\DeleteEvent\" />
     <Folder Include="Features\Events\Commands\UpdateEvent\" />
     <Folder Include="Features\Events\Queries\GetEventDetail\" />
+    <Folder Include="Features\Events\Queries\GetEventsExport\" />
     <Folder Include="Features\Orders\Commands\" />
     <Folder Include="Features\Orders\Queries\" />
     <Folder Include="Exceptions\" />

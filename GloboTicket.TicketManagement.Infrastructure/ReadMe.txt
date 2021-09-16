@@ -1,0 +1,1 @@
+﻿Solution koji služi za interakciju sa drugim servisima
